@@ -1,5 +1,5 @@
 ---
-### *Python Notebook Module for Reliability Characterization and Time to Failure Analysis*
+## *Python Notebook Module for Reliability Characterization and Time to Failure Analysis*
 ---
 
 <br>
